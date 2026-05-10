@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unbaisedramsingh.edgentiq.com/sitemap.xml
